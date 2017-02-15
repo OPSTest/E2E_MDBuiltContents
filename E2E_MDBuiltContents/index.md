@@ -1,8 +1,1 @@
-
-### Image
-![this is the alt text](./image/ATA_config_icon.JPG) 
-
-[!INCLUDE[ATA](./token/ATA.md)] 
-
-### Topic reference
-[Topic](./topic.md)
+# Wed, 15 Feb 2017 05:58:42 GMT
